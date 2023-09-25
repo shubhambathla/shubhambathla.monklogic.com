@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/shubhambathla.monklogic.com/static/css/main.ec064518.css",
-    "main.js": "/shubhambathla.monklogic.com/static/js/main.f6ee0270.js",
-    "static/js/787.f09adef1.chunk.js": "/shubhambathla.monklogic.com/static/js/787.f09adef1.chunk.js",
-    "static/media/whyus-office.png": "/shubhambathla.monklogic.com/static/media/whyus-office.a0b4692277cc100fa4dd.png",
-    "static/media/social-media.png": "/shubhambathla.monklogic.com/static/media/social-media.ddc1de3d667518a5e17a.png",
-    "static/media/hero-image.png": "/shubhambathla.monklogic.com/static/media/hero-image.1c9954c1de377bee15d9.png",
-    "static/media/CloudServicesIcon.png": "/shubhambathla.monklogic.com/static/media/CloudServicesIcon.ba60f8a20105d7349ef9.png",
-    "static/media/ui.png": "/shubhambathla.monklogic.com/static/media/ui.08bda24db51750a7af02.png",
-    "index.html": "/shubhambathla.monklogic.com/index.html",
-    "static/media/php.svg": "/shubhambathla.monklogic.com/static/media/php.32c1e4678025b40c89f47de7923946ad.svg",
-    "main.ec064518.css.map": "/shubhambathla.monklogic.com/static/css/main.ec064518.css.map",
-    "main.f6ee0270.js.map": "/shubhambathla.monklogic.com/static/js/main.f6ee0270.js.map",
-    "787.f09adef1.chunk.js.map": "/shubhambathla.monklogic.com/static/js/787.f09adef1.chunk.js.map"
+    "main.css": "/static/css/main.ec064518.css",
+    "main.js": "/static/js/main.67aff484.js",
+    "static/js/787.f09adef1.chunk.js": "/static/js/787.f09adef1.chunk.js",
+    "static/media/whyus-office.png": "/static/media/whyus-office.a0b4692277cc100fa4dd.png",
+    "static/media/social-media.png": "/static/media/social-media.ddc1de3d667518a5e17a.png",
+    "static/media/hero-image.png": "/static/media/hero-image.1c9954c1de377bee15d9.png",
+    "static/media/CloudServicesIcon.png": "/static/media/CloudServicesIcon.ba60f8a20105d7349ef9.png",
+    "static/media/ui.png": "/static/media/ui.08bda24db51750a7af02.png",
+    "static/media/php.svg": "/static/media/php.32c1e4678025b40c89f47de7923946ad.svg",
+    "index.html": "/index.html",
+    "main.ec064518.css.map": "/static/css/main.ec064518.css.map",
+    "main.67aff484.js.map": "/static/js/main.67aff484.js.map",
+    "787.f09adef1.chunk.js.map": "/static/js/787.f09adef1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec064518.css",
-    "static/js/main.f6ee0270.js"
+    "static/js/main.67aff484.js"
   ]
 }
